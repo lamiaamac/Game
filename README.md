@@ -34,6 +34,11 @@ Dosya bir isimle kaydedilmelidir. Örneğin, board1.txt.
 
 Adım 2: Uygulamanın Derlenmesi ve Çalıştırılması
 
+Görüntülediğiniz Github repository'nin sağ üstünde "Code" yazan yeşil butonuna tıklayın.
+"Download ZIP" seçeneğine tıklayın.
+Dosyayı indirdikten sonra, ZIP halinde bulunan dosyanın içerisinden "Game" adlı dosyayı dışarı çıkartın.
+Aşağıdaki adımları takip edin :
+
 Terminal veya komut istemcisini açın ve kodun bulunduğu dizine gidin. Dizine gitmek için aşağıdaki komutu kullanabilirsiniz:
 
 cd /path/to/your/code/folder
